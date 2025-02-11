@@ -4,9 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Go to Reward-Point-App Folder
+Go to Reward-Point-App Folder.
+Do npm install.
 Then Run the query npm start.
-Node module folder already in the github respository so don't need to do install node module again.
+
 
 ### `npm start`
 
